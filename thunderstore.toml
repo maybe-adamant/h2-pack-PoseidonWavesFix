@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "adamant"
-name = "adamant-PoseidonWavesFix"
+name = "PoseidonWavesFix"
 versionNumber = "1.0.0"
 description = "Fixes Poseidon waves on Axe special and Hidden Helix Torch."
 websiteUrl = "https://github.com/maybe-adamant/h2-pack-PoseidonWavesFix"
